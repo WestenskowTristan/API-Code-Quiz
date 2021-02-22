@@ -6,6 +6,7 @@ body * {
   display: flex;
   justify-content: center;
   margin-top: 75px;
+  margin: 150px 150px;
   flex-direction: column;
   align-items: center;
   background-color: blueviolet;
@@ -119,6 +120,12 @@ body * {
 .answer-styles {
   font-size: x-large;
   color: black;
+}
+
+.answers {
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
 }
 
 .correct-answer {
