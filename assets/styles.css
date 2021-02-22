@@ -8,10 +8,127 @@ body * {
   margin-top: 75px;
   flex-direction: column;
   align-items: center;
+  background-color: blueviolet;
 }
 
 .start-quiz-button {
   margin-top: 15px;
+}
+
+.question-1-1 {
+  background-color: blueviolet;
+  border: blueviolet;
+  border-radius: 10px;
+}
+.question-1-2 {
+  background-color: blueviolet;
+  border: blueviolet;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.question-1-3 {
+  background-color: blueviolet;
+  border: blueviolet;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.question-1-4 {
+  background-color: blueviolet;
+  border: blueviolet;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.question-2-1 {
+  background-color: blueviolet;
+  border: blueviolet;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.question-2-2 {
+  background-color: blueviolet;
+  border: blueviolet;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.question-2-3 {
+  background-color: blueviolet;
+  border: blueviolet;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.question-2-4 {
+  background-color: blueviolet;
+  border: blueviolet;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.question-3-1 {
+  background-color: blueviolet;
+  border: blueviolet;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.question-3-2 {
+  background-color: blueviolet;
+  border: blueviolet;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+.question-3-3 {
+  background-color: blueviolet;
+  border: blueviolet;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.question-3-4 {
+  background-color: blueviolet;
+  border: blueviolet;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.question-4-1 {
+  background-color: blueviolet;
+  border: blueviolet;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.question-4-2 {
+  background-color: blueviolet;
+  border: blueviolet;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.question-4-3 {
+  background-color: blueviolet;
+  border: blueviolet;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.question-4-4 {
+  background-color: blueviolet;
+  border: blueviolet;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+.question-asked {
+  font-size: xx-large;
+}
+
+.answer-styles {
+  font-size: x-large;
+  color: black;
+}
+
+.correct-answer {
+  display: flex;
+  align-items: flex-end;
+}
+
+.wrong-answer {
+  display: flex;
+  align-items: flex-end;
 }
 
 .highscore-container {
@@ -41,4 +158,10 @@ body * {
 
 .timer-container {
   display: flex;
+}
+
+.quiz-questions-styles {
+  display: flex;
+  justify-content: center;
+  margin-top: 75px;
 }
